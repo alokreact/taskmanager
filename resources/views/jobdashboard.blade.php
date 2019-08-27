@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Data Tables</title>
     <!-- Bootstrap CSS -->
+   <link href="{{asset('css/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{asset('css/vendor/fonts/circular-std/style.css')}}" rel="stylesheet">
+
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('css/libs/style.css')}}">
-     <link rel="stylesheet" href="{{asset('css/libs/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/libs/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/libs/fontawesome-all.css')}}">
     <link rel="stylesheet" href="{{asset('css/libs/chartist.css')}}">
     <link rel="stylesheet" href="{{asset('css/libs/morris.css')}}">
@@ -17,8 +20,8 @@
     <link rel="stylesheet" href="{{asset('css/libs/c3.css')}}">
     <link rel="stylesheet" href="{{asset('css/libs/flag-icon.min.css')}}">
 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 
 
 </head>
